@@ -1,7 +1,7 @@
 import React from 'react';
 // Replace YOUTUBE_EMBED_URL with your actual embed link:
 // e.g. "https://www.youtube.com/embed/YOUR_VIDEO_ID"
-const YOUTUBE_EMBED_URL = null;
+const YOUTUBE_EMBED_URL = "https://www.youtube.com/embed/Iwa3jRDMMBg";
 export default function VideoSection() {
   return (
     <section style={{padding:'5rem 2rem',maxWidth:1000,margin:'0 auto'}}>
